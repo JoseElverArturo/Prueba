@@ -1,0 +1,24 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1648079034733,839,URL-257,200,OK,Smoke Test 1-1,text,true,,7147,498,1,1,https://opencart.abstracta.us/,838,0,627
+1648079035581,188,Register-290,200,OK,Smoke Test 1-1,text,true,,7091,632,1,1,https://opencart.abstracta.us/index.php?route=account%2Fregister,187,0,0
+1648079035771,527,Continue-295,200,OK,Smoke Test 1-1,text,true,,8495,2488,1,1,http://opencart.abstracta.us:80/index.php?route=account/success,168,0,0
+1648079035771,168,Continue-295-0,302,Found,Smoke Test 1-1,text,true,,557,1782,1,1,https://opencart.abstracta.us/index.php?route=account/register,168,0,0
+1648079035941,357,Continue-295-1,200,OK,Smoke Test 1-1,text,true,,7938,706,1,1,http://opencart.abstracta.us:80/index.php?route=account/success,357,0,140
+1648079036301,335,Monitors-307,200,OK,Smoke Test 1-1,text,true,,839,683,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,335,0,143
+1648079036638,361,Monitors-308,200,OK,Smoke Test 1-1,text,true,,14516,582,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&product_id=42,360,0,0
+1648079036354,652,URL-257,200,OK,Smoke Test 1-2,text,true,,5104,498,2,2,https://opencart.abstracta.us/,652,0,452
+1648079037009,179,Register-290,200,OK,Smoke Test 1-2,text,true,,5282,632,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister,179,0,0
+1648079037190,183,Continue-295,200,OK,Smoke Test 1-2,text,true,,7185,1727,2,2,https://opencart.abstracta.us/index.php?route=account/register,183,0,0
+1648079037000,601,Upload File-313,200,OK,Smoke Test 1-1,text,true,,591,161220,2,2,http://opencart.abstracta.us/index.php?route=tool/upload,601,0,0
+1648079037375,322,Monitors-307,200,OK,Smoke Test 1-2,text,true,,839,683,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,322,0,142
+1648079037603,164,Add to Cart-314,200,OK,Smoke Test 1-1,text,true,,631,908,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,164,0,0
+1648079037699,223,Monitors-308,200,OK,Smoke Test 1-2,text,true,,12490,582,1,1,http://opencart.abstracta.us/index.php?route=product%2Fproduct&product_id=42,223,0,0
+1648079037924,609,Upload File-313,200,OK,Smoke Test 1-2,text,true,,591,161223,2,2,http://opencart.abstracta.us/index.php?route=tool/upload,609,0,0
+1648079038021,657,URL-257,200,OK,Smoke Test 1-3,text,true,,5104,498,2,2,https://opencart.abstracta.us/,657,0,468
+1648079038535,169,Add to Cart-314,200,OK,Smoke Test 1-2,text,true,,631,908,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,169,0,0
+1648079038679,180,Register-290,200,OK,Smoke Test 1-3,text,true,,5282,632,1,1,https://opencart.abstracta.us/index.php?route=account%2Fregister,180,0,0
+1648079038860,181,Continue-295,200,OK,Smoke Test 1-3,text,true,,5384,1727,1,1,https://opencart.abstracta.us/index.php?route=account/register,181,0,0
+1648079039044,320,Monitors-307,200,OK,Smoke Test 1-3,text,true,,839,683,1,1,http://opencart.abstracta.us/index.php?route=checkout/cart/add,320,0,143
+1648079039365,216,Monitors-308,200,OK,Smoke Test 1-3,text,true,,12490,582,1,1,http://opencart.abstracta.us/index.php?route=product%2Fproduct&product_id=42,215,0,0
+1648079039582,618,Upload File-313,200,OK,Smoke Test 1-3,text,true,,591,161244,1,1,http://opencart.abstracta.us/index.php?route=tool/upload,618,0,0
+1648079040201,163,Add to Cart-314,200,OK,Smoke Test 1-3,text,true,,631,908,1,1,http://opencart.abstracta.us/index.php?route=checkout/cart/add,163,0,0
